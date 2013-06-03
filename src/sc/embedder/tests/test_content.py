@@ -230,7 +230,7 @@ class MultimediaTestCase(unittest.TestCase):
         add_form.handleLoad(add_form, action)
 
         iframe = '<iframe width="100%" height="166" scrolling="no" ' + \
-            'frameborder="no" src="http://w.soundcloud.com/' + \
+            'frameborder="no" src="https://w.soundcloud.com/' + \
             'player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks' + \
             '%2F4599497&show_artwork=true"></iframe>'
 
